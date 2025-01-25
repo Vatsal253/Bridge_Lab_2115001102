@@ -9,4 +9,5 @@
 	- Solutions of Control flow problems added
     # 24/01/25
 	- Solutions on Array related problems added
-
+    # 25/01/25
+	- Solutions on Array related problems(Level 2) added
