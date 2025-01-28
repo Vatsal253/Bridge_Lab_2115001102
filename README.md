@@ -11,3 +11,7 @@
 	- Solutions on Array related problems added
     # 25/01/25
 	- Solutions on Array related problems(Level 2) added
+    # 27/01/25
+	- Solutions on Method related problems added
+    # 28/01/25
+	- Solutions on Method related problems added
