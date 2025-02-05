@@ -27,4 +27,5 @@
 	- Solutions on Constructors,Instance and Access Modifier related questions
     # 04/02/25
 	- Solutions on this, sealed, static key words and is operator related questions
-
+    # 05/02/25
+	- Solutions om object modeling related questions added
