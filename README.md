@@ -29,7 +29,9 @@
 	- Solutions on this, sealed, static key words and is operator related questions
     # 05/02/25
 	- Solutions om object modeling related questions added
-    # 06/02/25
-	- Solutions on inheritance related questions added
     # 07/02/25
 	- Solutions on inheritance related questions added
+    # 08/02/25
+	- Solutions on inheritance related questions added
+    # 10/02/25
+	- Solutions on OOPS concept related questions addedS
