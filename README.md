@@ -35,3 +35,7 @@
 	- Solutions on inheritance related questions added
     # 10/02/25
 	- Solutions on OOPS concept related questions addedS
+    # 12/02/25
+	- Solutions on LinkedList related questions added
+    # 13/02/25
+	- Solutions on data structures related questions added
