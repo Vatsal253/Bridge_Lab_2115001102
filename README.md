@@ -45,3 +45,12 @@
 	- Solutions on file read and write related questions added
     # 16/02/25
 	- Solutions on Linear and Binary search related questions added
+    # 17/02/25
+	- Solutions on General Algorithms and Time Complexity related questions added
+    # 18/02/25
+	- Solutions on Generics related questions added
+    # 19/02/25
+	- Solutions on Collections related questions added
+    # 20/02/25
+	- Solutions on Streams related questions added
+
