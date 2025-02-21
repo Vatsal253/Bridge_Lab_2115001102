@@ -53,4 +53,5 @@
 	- Solutions on Collections related questions added
     # 20/02/25
 	- Solutions on Streams related questions added
-
+    # 21/02/25
+	- Solutions on Exeption Handling related questions added
