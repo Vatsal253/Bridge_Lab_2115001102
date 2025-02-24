@@ -55,3 +55,5 @@
 	- Solutions on Streams related questions added
     # 21/02/25
 	- Solutions on Exeption Handling related questions added
+    # 22/02/25
+	- Solutions on Regex related questions added
