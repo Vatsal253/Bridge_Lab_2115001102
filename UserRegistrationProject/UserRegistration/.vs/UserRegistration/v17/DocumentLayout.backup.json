@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UserRegistrationProject\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7C8BA1-BAD6-4F31-9C0C-3A279E96EC38}|UserRegistration.csproj|e:\\userregistrationproject\\userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7C8BA1-BAD6-4F31-9C0C-3A279E96EC38}|UserRegistration.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0FBC8E-7A8D-4357-BC94-EC700517EC18}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\userregistrationproject\\businesslayer\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8AB8A8A-359E-4300-A143-ADCDE0FA0060}|..\\RepositoryLayer\\RepositoryLayer.csproj|e:\\userregistrationproject\\repositorylayer\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "E:\\UserRegistrationProject\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "E:\\UserRegistrationProject\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:38:06.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationRL.cs",
+              "DocumentMoniker": "E:\\UserRegistrationProject\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "ToolTip": "E:\\UserRegistrationProject\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:35:52.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegistrationBL.cs",
+              "DocumentMoniker": "E:\\UserRegistrationProject\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "ToolTip": "E:\\UserRegistrationProject\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:35:29.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
