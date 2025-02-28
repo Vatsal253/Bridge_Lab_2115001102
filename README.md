@@ -63,3 +63,5 @@
 	- Solutions on Annotation and Reflection related questions added
     # 25/02/25
 	- Solutions on CSV Data Handling related questions added
+    # 28/02/25
+	- Assignment on WebAPI on UserRegistration added
