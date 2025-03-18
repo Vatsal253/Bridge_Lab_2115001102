@@ -65,3 +65,16 @@
 	- Solutions on CSV Data Handling related questions added
     # 28/02/25
 	- Assignment on WebAPI on UserRegistration added
+    # 17/03/25
+	- Assignment on questions on the following topics -
+		-Sequence Problems
+		-If else if and else
+		-Case Statement
+		-For Loop
+		-While Loop
+		-Function related problems
+    # 18/03/25
+	- Assignment on questions on the following topics -
+		-Array related problems
+		-Map related problems
+
